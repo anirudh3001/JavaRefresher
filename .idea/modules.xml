@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample/JavaEightFeatures.iml" filepath="$PROJECT_DIR$/Sample/JavaEightFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1_Assignments/JavaEightFeatures (1).iml" filepath="$PROJECT_DIR$/Week1_Assignments/JavaEightFeatures (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2_Assignments/JavaEightFeatures (2).iml" filepath="$PROJECT_DIR$/Week2_Assignments/JavaEightFeatures (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3_Assignments/JavaEightFeatures (3).iml" filepath="$PROJECT_DIR$/Week3_Assignments/JavaEightFeatures (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Team_Joe.iml" filepath="$PROJECT_DIR$/.idea/Team_Joe.iml" />
+    </modules>
+  </component>
+</project>
